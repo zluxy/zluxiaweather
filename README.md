@@ -15,3 +15,39 @@ User-friendly Interface: The application is built using the GunaUI framework, wh
 ## Demo
 
 <img src="https://github.com/zluxy/zluxiaweather/blob/main/screengif.gif" width="800"/></h1>
+
+## Prerequisites
+Before running the application, ensure that you have the following installed:
+
+.NET Framework (version X.X or higher): Download .NET Framework
+
+## Prerequisites
+Before running the application, ensure that you have the following installed:
+
+.NET Framework (version X.X or higher): Download .NET Framework
+
+## Installation
+Clone the repository:
+```
+git clone https://github.com/your-username/ZluxiaWeather.git
+```
+Open the project in your preferred IDE (e.g., Visual Studio).
+Install the required NuGet packages:
+```
+nuget restore
+```
+Build the solution to resolve any dependencies.
+
+## Usage
+Launch the ZluxiaWeather application.
+
+Enter the desired location in the search bar or allow the application to access your current location.
+
+Click the "Search" button to fetch the weather forecast for the specified location.
+
+The weather forecast will be displayed, including temperature, humidity, wind speed, and weather conditions.
+
+## Acknowledgments
+GunaUI: GunaUI is a user interface framework for creating beautiful applications in C# and VB.NET.
+
+OpenWeather: OpenWeather provides weather data and APIs to access and display weather information in applications.
