@@ -7,4 +7,4 @@ Real-time Weather Forecast: ZluxiaWeather fetches the latest weather data from t
 
 User-friendly Interface: The application is built using the GunaUI framework, which offers a visually appealing and intuitive user interface, making it easy for users to navigate and interact with the application.
 
-<img width="1470" alt="image" src="https://user-images.githubusercontent.com/98614666/232768610-fdeada85-3d21-4cf9-915e-a0ec9f3b7a9f.png">
+<img width="1470" alt="image" src="https://user-images.githubusercontent.com/98614666/232768610-fdeada85-3d21-4cf9-915e-a0ec9f3b7a9f.png](https://github.com/zluxy/zluxiaweather/blob/main/Resources/screen.png">
