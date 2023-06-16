@@ -11,3 +11,7 @@ User-friendly Interface: The application is built using the GunaUI framework, wh
 <img width="1470" alt="image" src="https://github.com/zluxy/zluxiaweather/blob/main/Resources/screen.png">
 
 <img width="1470" alt="image" src="https://github.com/zluxy/zluxiaweather/blob/main/iconsdemo.png">
+
+## Demo
+
+<img src="https://github.com/zluxy/zluxiaweather/blob/main/screengif.gif" height="300"/></h1>
